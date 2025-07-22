@@ -6,10 +6,19 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 
 ## Portfolio Overview
 
-| Repository                                                                                     | Description                                                                                                     |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [conditional-access-mfa](https://github.com/Azure-Security-Portfolio/conditional-access-mfa)   | Microsoft Entra ID Conditional Access & MFA – Modern identity protection with Zero Trust.                       |
-| [rbac-jit-vm-access](https://github.com/Azure-Security-Portfolio/rbac-jit-vm-access)           | Demonstrating Role-Based Access Control and Just-In-Time Virtual Machine access for least-privilege security.   |
+| Repository                                                                                      | Description                                                                                                     |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [conditional-access-mfa](https://github.com/Azure-Security-Portfolio/conditional-access-mfa)    | Microsoft Entra ID Conditional Access & MFA – Modern identity protection with Zero Trust.                       |
+| [rbac-jit-vm-access](https://github.com/Azure-Security-Portfolio/rbac-jit-vm-access)            | Demonstrating Role-Based Access Control and Just-In-Time Virtual Machine access for least-privilege security.   |
+| [keyvault-secrets-management (coming soon)](./03%20-%20azure-keyvault-secrets-management)       | Store and manage secrets securely with Azure Key Vault, including secret rotation and access controls.          |
+| [secure-vm-nsg-bastion (coming soon)](./04%20-%20azure-secure-vm-nsg-bastion)                   | Deploy and harden Azure VMs with Network Security Groups and secure remote access using Azure Bastion.          |
+| [firewall-app-gateway (coming soon)](./05%20-%20azure-firewall-app-gateway)                     | Protect cloud networks with Azure Firewall and Application Gateway for advanced security controls.              |
+| [storage-rbac-sas (coming soon)](./06%20-%20azure-storage-rbac-sas)                             | Secure Azure Storage with RBAC and Shared Access Signatures, and audit storage access.                          |
+| [storage-encryption-soft-delete (coming soon)](./07%20-%20azure-storage-encryption-soft-delete) | Enable encryption at rest and soft delete to protect and recover Azure Storage data.                            |
+| [defender-threat-detection (coming soon)](./08%20-%20azure-defender-threat-detection)           | Detect and respond to threats using Azure Security Center/Defender, with alerts and recommendations.            |
+| [sentinel-incident-response (coming soon)](./09%20-%20azure-sentinel-incident-response)         | Investigate and respond to incidents with Azure Sentinel SIEM, log analytics, and playbooks.                    |
+| [policy-blueprints (coming soon)](./10%20-%20azure-policy-blueprints)                           | Automate security and compliance using Azure Policy and Blueprints.                                             |
+| [cost-management-security (coming soon)](./11%20-%20azure-cost-management-security)             | Monitor Azure costs and apply security recommendations for optimized cloud governance.                          |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
@@ -19,6 +28,15 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 
 - **Conditional Access MFA** – Enhance security with multi-factor authentication policies tailored to your organization's needs.
 - **RBAC JIT VM Access** – Implement Just-In-Time virtual machine access using Role-Based Access Control for improved security and operational efficiency.
+- **Azure Key Vault Secrets Management** - Protect sensitive credentials and secrets using Azure Key Vault, implementing strict access controls and automated secret rotation.
+- **Secure Azure VM with NSG & Bastion** - Harden VMs by segmenting traffic with Network Security Groups and using Azure Bastion for secure, internet-isolated remote access.
+- **Azure Firewall & Application Gateway** - Defend cloud networks and web apps with Azure Firewall and Application Gateway (including WAF), enabling advanced perimeter and L7 protection.
+- **Secure Azure Storage with RBAC and SAS Tokens** - Control data access using RBAC and temporary Shared Access Signatures and monitor storage activity for unauthorized access attempts.
+- **Enable Storage Encryption & Soft Delete** - Safeguard data at rest with encryption and enable soft delete for accidental or malicious data recovery in Azure Storage.
+- **Azure Defender Threat Detection** - Activate Azure Defender (Security Center) to detect, alert and remediate threats across cloud workloads using built-in analytics.
+- **Azure Sentinel Incident Response** - Deploy Azure Sentinel to centralize logging, investigate security incidents and automate response playbooks in a modern SIEM.
+- **Azure Policy & Blueprints** - Enforce compliance, automate resource governance and ensure security best practices at scale with Azure Policy and Blueprints.
+- **Cost Management & Security Recommendations** - Analyze cloud spend and apply security recommendations to optimize resource allocation and minimize risk.
 
 ---
 
