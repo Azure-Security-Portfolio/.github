@@ -6,10 +6,10 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 
 ## Portfolio Overview
 
-| Repository                                                                             | Description                                                                                                              |
-|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [serverless-security](https://github.com/AWS-Security-Portfolio/serverless-security)   | Secure serverless application with API Gateway, Lambda, DynamoDB, Cognito user authentication and AWS WAF protection.    |
-| [cicd-security](https://github.com/AWS-Security-Portfolio/cicd-security)               | Demo for AWS CI/CD security lab with static analysis and access control.                                                 |
+| Repository                                                                                     | Description                                                                                                     |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [conditional-access-mfa](https://github.com/Azure-Security-Portfolio/conditional-access-mfa)   | Azure AD Conditional Access & MFA – Modern identity protection with Zero Trust.                                 |
+| [rbac-jit-vm-access](https://github.com/Azure-Security-Portfolio/rbac-jit-vm-access)           | Demonstrating RBAC and JIT VM access for least-privilege cloud security.                                        |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
@@ -17,8 +17,8 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 
 ## Topics Covered
 
-- **IAM & Least Privilege** – Fine-grained access control with users, roles and policies.
-- **VPC & Networking** – Secure segmentation, NAT, bastion hosts and Terraform-based architecture.
+- **Conditional Access MFA** – Enhance security with multi-factor authentication policies tailored to your organization's needs.
+- **RBAC JIT VM Access** – Implement Just-In-Time virtual machine access using Role-Based Access Control for improved security and operational efficiency.
 
 ---
 
