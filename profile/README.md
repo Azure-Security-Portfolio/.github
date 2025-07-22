@@ -8,8 +8,8 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 
 | Repository                                                                                     | Description                                                                                                     |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| [conditional-access-mfa](https://github.com/Azure-Security-Portfolio/conditional-access-mfa)   | Azure AD Conditional Access & MFA – Modern identity protection with Zero Trust.                                 |
-| [rbac-jit-vm-access](https://github.com/Azure-Security-Portfolio/rbac-jit-vm-access)           | Demonstrating RBAC and JIT VM access for least-privilege cloud security.                                        |
+| [conditional-access-mfa](https://github.com/Azure-Security-Portfolio/conditional-access-mfa)   | Microsoft Entra ID Conditional Access & MFA – Modern identity protection with Zero Trust.                       |
+| [rbac-jit-vm-access](https://github.com/Azure-Security-Portfolio/rbac-jit-vm-access)           | Demonstrating Role-Based Access Control and Just-In-Time Virtual Machine access for least-privilege security.   |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
