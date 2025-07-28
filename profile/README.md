@@ -14,7 +14,7 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 | [secure-vm-nsg-bastion](https://github.com/Azure-Security-Portfolio/secure-vm-nsg-bastion)     | Deploy and harden Azure VMs with Network Security Groups and secure remote access using Azure Bastion.          |
 | [firewall-app-gateway](https://github.com/Azure-Security-Portfolio/firewall-app-gateway)       | Protect cloud networks with Azure Firewall and Application Gateway for advanced security controls.              |
 | [storage-security](https://github.com/Azure-Security-Portfolio/storage-security)               | Secure Azure Storage with RBAC and Shared Access Signatures and audit storage access.                           |
-| *storage-encryption-soft-delete (soon)*                                                        | Enable encryption at rest and soft delete to protect and recover Azure Storage data.                            |
+| [storage-encryption](https://github.com/Azure-Security-Portfolio/storage-encryption)           | Enable encryption at rest and soft delete to protect and recover Azure Storage data.                            |
 | *defender-threat-detection (soon)*                                                             | Detect and respond to threats using Azure Security Center/Defender, with alerts and recommendations.            |
 | *sentinel-incident-response (soon)*                                                            | Investigate and respond to incidents with Azure Sentinel SIEM, log analytics and playbooks.                     |
 | *policy-blueprints (soon)*                                                                     | Automate security and compliance using Azure Policy and Blueprints.                                             |
@@ -32,7 +32,7 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 - **Secure Azure VM with NSG & Bastion** - Harden VMs by segmenting traffic with Network Security Groups and using Azure Bastion for secure, internet-isolated remote access.
 - **Azure Firewall & Application Gateway** - Defend cloud networks and web apps with Azure Firewall and Application Gateway (including WAF), enabling advanced perimeter and L7 protection.
 - **Secure Azure Storage with RBAC and SAS Tokens** - Control data access using RBAC and temporary Shared Access Signatures and monitor storage activity for unauthorized access attempts.
-- *Enable Storage Encryption & Soft Delete* - Safeguard data at rest with encryption and enable soft delete for accidental or malicious data recovery in Azure Storage.
+- **Storage Encryption & Soft Delete** - Safeguard data at rest with encryption and enable soft delete for accidental or malicious data recovery in Azure Storage.
 - *Azure Defender Threat Detection* - Activate Azure Defender (Security Center) to detect, alert and remediate threats across cloud workloads using built-in analytics.
 - *Azure Sentinel Incident Response* - Deploy Azure Sentinel to centralize logging, investigate security incidents and automate response playbooks in a modern SIEM.
 - *Azure Policy & Blueprints* - Enforce compliance, automate resource governance and ensure security best practices at scale with Azure Policy and Blueprints.
