@@ -15,7 +15,7 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 | [firewall-app-gateway](https://github.com/Azure-Security-Portfolio/firewall-app-gateway)                            | Protect cloud networks with Azure Firewall and Application Gateway for advanced security.  |
 | [storage-security](https://github.com/Azure-Security-Portfolio/storage-security)                                    | Secure Azure Storage with RBAC and Shared Access Signatures and audit storage access.      |
 | [storage-encryption](https://github.com/Azure-Security-Portfolio/storage-encryption)                                | Enable encryption at rest and soft delete to protect and recover Azure Storage data.       |
-| [defender-sentinel-threat-detection](https://github.com/Azure-Security-Portfolio/defender-sentinel-threat-detection)| Detect/respond to threats using Azure Defender & Sentinel SIEM with automation.            |
+| [defender-sentinel-threat-detection](https://github.com/Azure-Security-Portfolio/defender-sentinel-threat-detection)| Detect and respond to threats using Azure Defender and Sentinel SIEM with automation.      |
 | *policy-blueprints (soon)*                                                                                          | Automate security and compliance using Azure Policy and Blueprints.                        |
 | *cost-management-security (soon)*                                                                                   | Monitor Azure costs and apply security recommendations for optimized cloud governance.     |
 
