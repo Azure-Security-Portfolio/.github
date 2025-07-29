@@ -16,7 +16,6 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 | [storage-security](https://github.com/Azure-Security-Portfolio/storage-security)                     | Secure Azure Storage with RBAC and Shared Access Signatures and audit storage access.                     |
 | [storage-encryption](https://github.com/Azure-Security-Portfolio/storage-encryption)                 | Enable encryption at rest and soft delete to protect and recover Azure Storage data.                      |
 | [defender-threat-detection](https://github.com/Azure-Security-Portfolio/defender-threat-detection)   | Detect and respond to threats using Azure Defender for Cloud and Microsoft Sentinel SIEM with automation. |
-| *sentinel-incident-response (soon)*                                                                  | Investigate and respond to incidents with Azure Sentinel SIEM, log analytics and playbooks.               |
 | *policy-blueprints (soon)*                                                                           | Automate security and compliance using Azure Policy and Blueprints.                                       |
 | *cost-management-security (soon)*                                                                    | Monitor Azure costs and apply security recommendations for optimized cloud governance.                    |
 
@@ -34,7 +33,6 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 - **Secure Azure Storage with RBAC and SAS Tokens** - Control data access using RBAC and temporary Shared Access Signatures and monitor storage activity for unauthorized access attempts.
 - **Storage Encryption & Soft Delete** - Safeguard data at rest with encryption and enable soft delete for accidental or malicious data recovery in Azure Storage.
 - **Azure Defender Threat Detection** - Activate Azure Defender (Defender for Cloud) and Microsoft Sentinel to detect, investigate, and remediate threats across cloud workloads using built-in and custom analytics, automated incident response playbooks and real-time dashboards.
-- *Azure Sentinel Incident Response* - Deploy Azure Sentinel to centralize logging, investigate security incidents and automate response playbooks in a modern SIEM.
 - *Azure Policy & Blueprints* - Enforce compliance, automate resource governance and ensure security best practices at scale with Azure Policy and Blueprints.
 - *Cost Management & Security Recommendations* - Analyze cloud spend and apply security recommendations to optimize resource allocation and minimize risk.
 
