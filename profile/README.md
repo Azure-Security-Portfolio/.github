@@ -16,7 +16,7 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 | [storage-security](https://github.com/Azure-Security-Portfolio/storage-security)                                    | Secure Azure Storage with RBAC and Shared Access Signatures and audit storage access.      |
 | [storage-encryption](https://github.com/Azure-Security-Portfolio/storage-encryption)                                | Enable encryption at rest and soft delete to protect and recover Azure Storage data.       |
 | [defender-sentinel-threat-detection](https://github.com/Azure-Security-Portfolio/defender-sentinel-threat-detection)| Detect and respond to threats using Azure Defender and Sentinel SIEM with automation.      |
-| *policy-blueprints (soon)*                                                                                          | Automate security and compliance using Azure Policy and Blueprints.                        |
+| [policy-blueprint-governance](https://github.com/Azure-Security-Portfolio/policy-blueprint-governance)              | Automate security and compliance using Azure Policy and Blueprints.                        |
 | *cost-management-security (soon)*                                                                                   | Monitor Azure costs and apply security recommendations for optimized cloud governance.     |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
@@ -33,7 +33,7 @@ Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploa
 - **Secure Azure Storage with RBAC and SAS Tokens** - Control data access using RBAC and temporary Shared Access Signatures and monitor storage activity for unauthorized access attempts.
 - **Storage Encryption & Soft Delete** - Safeguard data at rest with encryption and enable soft delete for accidental or malicious data recovery in Azure Storage.
 - **Azure Defender & Sentinel Threat Detection** - Activate Azure Defender (Defender for Cloud) and Microsoft Sentinel to detect, investigate, and remediate threats across cloud workloads using built-in and custom analytics, automated incident response playbooks and real-time dashboards.
-- *Azure Policy & Blueprints* - Enforce compliance, automate resource governance and ensure security best practices at scale with Azure Policy and Blueprints.
+- **Azure Policy & Blueprints** - Enforce compliance, automate resource governance and ensure security best practices at scale with Azure Policy and Blueprints.
 - *Cost Management & Security Recommendations* - Analyze cloud spend and apply security recommendations to optimize resource allocation and minimize risk.
 
 ---
