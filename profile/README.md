@@ -1,6 +1,6 @@
 ## Azure Security Portfolio
 
-Welcome to my portfolio of hands-on Azure Security labs (work in progress) Uploading a new lab every day.
+Welcome to my portfolio of hands-on Azure Security labs. Each repository demonstrates real-world Microsoft Azure security concepts—from identity management and secure VM access, to threat detection, storage protection and automated policy enforcement.
 
 ---
 
