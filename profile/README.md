@@ -17,7 +17,7 @@ Welcome to my portfolio of hands-on Azure Security labs, covering topics from id
 | [storage-encryption](https://github.com/Azure-Security-Portfolio/storage-encryption)                                | Enable encryption at rest and soft delete to protect and recover Azure Storage data.       |
 | [defender-sentinel-threat-detection](https://github.com/Azure-Security-Portfolio/defender-sentinel-threat-detection)| Detect and respond to threats using Azure Defender and Sentinel SIEM with automation.      |
 | [policy-blueprint-governance](https://github.com/Azure-Security-Portfolio/policy-blueprint-governance)              | Automate security and compliance using Azure Policy and Blueprints.                        |
-| [cost-management-security](https://github.com/Azure-Security-Portfolio/cost-security-governance)                    | Monitor Azure costs and apply security recommendations for optimized cloud governance.     |
+| [cost-security-governance](https://github.com/Azure-Security-Portfolio/cost-security-governance)                    | Monitor Azure costs and apply security recommendations for optimized cloud governance.     |
 
 * Click each repo name to view source code, documentation, diagrams and hands-on lab.
 
