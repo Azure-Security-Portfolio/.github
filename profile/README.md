@@ -1,6 +1,6 @@
 ## Azure Security Portfolio
 
-Welcome to my portfolio of hands-on Azure Security labs, covering topics from identity management and secure VM access, to threat detection, storage protection and automated policy enforcement.
+Welcome to my portfolio of hands-on Azure Security labs, covering topics from identity management and secure VM access, to Defender for Cloud, Microsoft Sentinel, storage protection and automated policy enforcement.
 
 ---
 
