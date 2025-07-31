@@ -42,7 +42,7 @@ Welcome to my portfolio of hands-on Azure Security labs, covering topics from id
 
 Built and maintained by Sebastian Silva C. Passionate about automation, defense-in-depth and real-world hands-on learning. 
 CompTIA Security+, Network+, A+ and Azure AZ 900 certified.   
-*Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc)*
+*Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc)* | [sebastian@playbookvisualarts.com](mailto:sebastian@playbookvisualarts.com)
 
 ---
 
